@@ -1,0 +1,13 @@
+.DS_store
+
+transactions/
+
+venv/
+
+.vscode
+
+.vs
+
+__pycache__/
+
+financeData.db
